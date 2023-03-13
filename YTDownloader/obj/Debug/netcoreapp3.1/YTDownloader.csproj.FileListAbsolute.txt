@@ -1,0 +1,47 @@
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YTDownloader.exe
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YTDownloader.deps.json
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YTDownloader.runtimeconfig.json
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YTDownloader.runtimeconfig.dev.json
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YTDownloader.dll
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YTDownloader.pdb
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.csprojAssemblyReference.cache
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.Form1.resources
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.csproj.GenerateResource.cache
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.AssemblyInfoInputs.cache
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.AssemblyInfo.cs
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.csproj.CoreCompileInputs.cache
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.csproj.CopyComplete
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.dll
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.pdb
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.genruntimeconfig.cache
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\AngleSharp.dll
+E:\Nowy folder\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YoutubeExplode.dll
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YTDownloader.exe
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YTDownloader.deps.json
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YTDownloader.runtimeconfig.json
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YTDownloader.runtimeconfig.dev.json
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YTDownloader.dll
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YTDownloader.pdb
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\AngleSharp.dll
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\bin\Debug\netcoreapp3.1\YoutubeExplode.dll
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.csproj.AssemblyReference.cache
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.Form1.resources
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.csproj.GenerateResource.cache
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.AssemblyInfoInputs.cache
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.AssemblyInfo.cs
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.csproj.CoreCompileInputs.cache
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.csproj.CopyComplete
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.dll
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.pdb
+C:\Dysk lokalny ( E )\Nowy folder\Programowanie\Visual Studio - programy\YTDownloader\YTDownloader\obj\Debug\netcoreapp3.1\YTDownloader.genruntimeconfig.cache
