@@ -284,7 +284,7 @@ namespace YTDownloader
         private void button6_Click(object sender, EventArgs e) // Clear button
         {
             listBox2.Items.Clear();
-            pictureBox1.Image = null;
+            pictureBox1.Image = Resource1.noImage;
         }
 
         private void listBox2_SelectedIndexChanged(object sender, EventArgs e) // Someone selected video, show thubnail of it
@@ -365,6 +365,16 @@ namespace YTDownloader
                 }
             }
             fs.Close();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
     
