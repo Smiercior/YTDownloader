@@ -14,4 +14,5 @@ It is a simple application for downloading videos from YouTube
 ![Start window](Screenshots/main.PNG)
 ![Adding to the wanted list](Screenshots/wantedList.PNG)
 ![Search and adding to the found list](Screenshots/foundList.PNG)
-![Download selected video](Screenshots/downloading.PNG)
+![Downloading selected videos](Screenshots/downloading.PNG)
+![Downloaded selected videos](Screenshots/downloaded.PNG)
